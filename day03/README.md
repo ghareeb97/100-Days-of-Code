@@ -4,11 +4,11 @@
 ## Exercise
 
 - https://replit.com/@ghareeb97/day-3-start
-- https://replit.com/@ghareeb97/day-3-1-exercise
-- https://replit.com/@ghareeb97/day-3-2-exercise
-- https://replit.com/@ghareeb97/day-3-3-exercise
+- https://replit.com/@ghareeb97/day-3-1-Odd-or-Even
+- https://replit.com/@ghareeb97/day-3-2-BMI-V2
+- https://replit.com/@ghareeb97/day-3-3-Leap-Year
 - https://replit.com/@ghareeb97/day-3-multiple-if
-- https://replit.com/@ghareeb97/day-3-4-exercise
+- https://replit.com/@ghareeb97/day-3-4-Pizza-Order-Practice
 - https://replit.com/@ghareeb97/Love-Calculator
   
   
