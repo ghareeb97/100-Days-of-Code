@@ -9,3 +9,4 @@ I will commit each day and project I finish to this repository hoping to stay on
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
 - [Day 2](day02): Understanding Data Types and How to Manipulate Strings
+- [Day 3](day03): Control Flow and Logical Operators
