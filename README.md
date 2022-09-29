@@ -12,3 +12,4 @@ I will commit each day and project I finish to this repository hoping to stay on
 - [Day 3](day03): Control Flow and Logical Operators
 - [Day 4](day04): Randomisation and Python Lists
 - [Day 5](day05): Python Loops
+- [Day 6](day06): Python Functions & Karel
