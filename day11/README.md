@@ -2,3 +2,6 @@
 
 
 ## Project 
+![blackjack](blackjack.gif)
+
+https://replit.com/@ghareeb97/blackjack
