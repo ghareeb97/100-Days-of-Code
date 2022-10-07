@@ -19,4 +19,5 @@ I will commit each day and project I finish to this repository hoping to stay on
 - [Day 10](day10): Functions with Outputs
 - [Day 11](day11): The Blackjack Capstone Project
 - [Day 12](day12): Scope & Number Guessing Game
+- [Day 13](day13): Debugging - How to Find and Fix Errors in your Code
 
