@@ -20,4 +20,5 @@ I will commit each day and project I finish to this repository hoping to stay on
 - [Day 11](day11): The Blackjack Capstone Project
 - [Day 12](day12): Scope & Number Guessing Game
 - [Day 13](day13): Debugging - How to Find and Fix Errors in your Code
+- [Day 14](day14): Higher or Lower Game Project
 
