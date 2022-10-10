@@ -95,7 +95,7 @@ def coffee_machine(profit):
                 change = calculate_change(coffee_requested, quarters, dimes, nickles, pennies)
                 profit += MENU[coffee_requested]["cost"]
                 print(f"Here are ${change}.")
-                print(f"Here is your {coffee_requested} ☕️. Enjoy!")
+                print(f"Here is your {coffee_requested}☕️. Enjoy!")
                 remaining_resources(coffee_requested)
             else:
                 print("Sorry that's not enough money. Money refunded.")
