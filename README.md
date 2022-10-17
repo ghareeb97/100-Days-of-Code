@@ -27,4 +27,5 @@ I will commit each day and project I finish to this repository hoping to stay on
 - [Day 16](day16): Object-Oriented Programming (OOP)
 - [Day 17](day17): The Benefits of OOP
 - [Day 18](day18): Turtle and The Graphical User Interface (GUI)
+- [Day 19](day19): Instances, State and Higher Order Functions
 
