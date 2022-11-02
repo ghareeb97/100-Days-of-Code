@@ -28,5 +28,6 @@ I will commit each day and project I finish to this repository hoping to stay on
 - [Day 17](day17): The Benefits of OOP
 - [Day 18](day18): Turtle and The Graphical User Interface (GUI)
 - [Day 19](day19): Instances, State and Higher Order Functions
-- [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 20](day20-21): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21](day20-21): Build the Snake Game Part 2: Inheritance & List Slicing
 
