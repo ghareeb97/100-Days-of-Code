@@ -1,38 +1,30 @@
 from turtle import Turtle
 import random
-
+import scoreboard
 COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
 STARTING_MOVE_DISTANCE = 5
 MOVE_INCREMENT = 10
 
 
-class CarManager(Turtle):
-    def __init__(self):
-        super().__init__()
-        self.shape("square")
-        self.shapesize(stretch_len=2)
-        self.color(random.choice(COLORS))
-        self.penup()
-        ran_y = random.randint(-280, 280)
-        self.goto(320, ran_y)
-
-    def move(self):
-        new_x = self.xcor() - STARTING_MOVE_DISTANCE
-        self.goto(new_x, self.ycor())
-
-
+class CarManager():
     def __init__(self):
         self.cars = []
-        self.create_car()
-        self.head = self.cars[0]
+        self.carspeed = STARTING_MOVE_DISTANCE
+    def add_car(self):
+        random_generator = random.randint(1, 6)
+        if random_generator == 1:
+            new_car = Turtle("square")
+            new_car.shapesize(stretch_len=2)
+            new_car.color(random.choice(COLORS))
+            new_car.penup()
+            ran_y = random.randint(-250, 250)
+            new_car.goto(320, ran_y)
+            self.cars.append(new_car)
 
-    def create_car(self):
-        for position in STARTING_POSITION:
-            self.add_car(position)
+    def move(self):
+        for car in self.cars:
+            new_x = car.xcor() - self.carspeed
+            car.goto(new_x, car.ycor())
 
-    def add_car(self, position):
-        new_car = Turtle("square")
-        new_car.color("white")
-        new_car.penup()
-        new_car.goto(position)
-        self.cars.append(new_car)
+    def level_up(self):
+        self.carspeed += MOVE_INCREMENT
