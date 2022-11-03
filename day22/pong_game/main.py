@@ -40,6 +40,7 @@ while game_is_on:
         scoreboard.l_score += 1
         scoreboard.refresh()
         ball.home()
+        ball.x_move *= -1
         ball.move_speed = 0.1
 
 
