@@ -1,3 +1,3 @@
-# Day 24 Files, Directories and Paths
+# Day 24: Files, Directories and Paths
 
 
